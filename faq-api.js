@@ -1,3 +1,4 @@
+// faq-api.js (sem IA, com normalização + sugestão de pergunta parecida)
 
 const express = require('express');
 const cors = require('cors');
@@ -25,23 +26,46 @@ function normalizarTexto(texto) {
 
 function encontrarResposta(perguntaUsuario) {
   const texto = normalizarTexto(perguntaUsuario);
+  let melhorCorrespondencia = null;
+  let maiorSimilaridade = 0;
 
   for (const item of faq) {
-    const perguntaBase = normalizarTexto(item.pergunta);
-    if (texto.includes(perguntaBase)) return item.resposta;
+    const base = normalizarTexto(item.pergunta);
+    if (texto.includes(base)) return { resposta: item.resposta };
 
-    const temVariacao = item.variacoes?.some(v => texto.includes(normalizarTexto(v)));
-    if (temVariacao) return item.resposta;
+    const variacoes = item.variacoes || [];
+    if (variacoes.some(v => texto.includes(normalizarTexto(v)))) return { resposta: item.resposta };
+
+    const scorePergunta = calcularSimilaridade(texto, base);
+    if (scorePergunta > maiorSimilaridade) {
+      melhorCorrespondencia = item.pergunta;
+      maiorSimilaridade = scorePergunta;
+    }
+  }
+
+  if (maiorSimilaridade >= 0.5 && melhorCorrespondencia) {
+    return {
+      resposta: `Essa pergunta ainda não está cadastrada no nosso sistema automático. Você quis dizer: '${melhorCorrespondencia}'`
+    };
   }
 
   return null;
 }
 
+function calcularSimilaridade(a, b) {
+  const palavrasA = new Set(a.split(' '));
+  const palavrasB = new Set(b.split(' '));
+  const intersecao = [...palavrasA].filter(p => palavrasB.has(p));
+  const media = (palavrasA.size + palavrasB.size) / 2;
+  return intersecao.length / media;
+}
+
 app.post('/responder', (req, res) => {
   const { pergunta } = req.body;
-  const resposta = encontrarResposta(pergunta);
-  if (resposta) {
-    res.json({ resposta });
+  const resultado = encontrarResposta(pergunta);
+
+  if (resultado && resultado.resposta) {
+    res.json({ resposta: resultado.resposta });
   } else {
     res.json({
       resposta: "Essa pergunta ainda não está cadastrada no nosso sistema automático. Um de nossos atendentes irá te ajudar com isso agora mesmo."
