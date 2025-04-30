@@ -30,7 +30,10 @@
      "Tem seguro para os passageiros?",
      "É possível contratar com seguro?",
      "Existe algum tipo de proteção ou cobertura?",
-     "A empresa tem parceria com seguradora?"
+     "A empresa tem parceria com seguradora?",
+     "Tem seguro?",
+     "Tem seguro",
+     "Qual seguro"
    ],
    "resposta": "Atualmente, não trabalhamos com nenhuma companhia de seguros para cobertura da limousine ou dos passageiros. Todo o serviço é prestado com segurança e responsabilidade, mas não inclui seguro adicional."
  },
