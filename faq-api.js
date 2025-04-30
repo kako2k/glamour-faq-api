@@ -1,4 +1,4 @@
-// faq-api.js (sem IA, com normalização + sugestão de pergunta parecida)
+// faq-api.js (com similaridade melhorada para sugestões inteligentes)
 
 const express = require('express');
 const cors = require('cors');
@@ -24,6 +24,16 @@ function normalizarTexto(texto) {
     .trim();
 }
 
+function similaridadeStrings(a, b) {
+  const aa = a.split(' ');
+  const bb = b.split(' ');
+  let iguais = 0;
+  for (const palavra of aa) {
+    if (bb.includes(palavra)) iguais++;
+  }
+  return iguais / Math.max(aa.length, bb.length);
+}
+
 function encontrarResposta(perguntaUsuario) {
   const texto = normalizarTexto(perguntaUsuario);
   let melhorCorrespondencia = null;
@@ -36,28 +46,20 @@ function encontrarResposta(perguntaUsuario) {
     const variacoes = item.variacoes || [];
     if (variacoes.some(v => texto.includes(normalizarTexto(v)))) return { resposta: item.resposta };
 
-    const scorePergunta = calcularSimilaridade(texto, base);
+    const scorePergunta = similaridadeStrings(texto, base);
     if (scorePergunta > maiorSimilaridade) {
       melhorCorrespondencia = item.pergunta;
       maiorSimilaridade = scorePergunta;
     }
   }
 
-  if (maiorSimilaridade >= 0.5 && melhorCorrespondencia) {
+  if (maiorSimilaridade >= 0.45 && melhorCorrespondencia) {
     return {
       resposta: `Essa pergunta ainda não está cadastrada no nosso sistema automático. Você quis dizer: '${melhorCorrespondencia}'`
     };
   }
 
   return null;
-}
-
-function calcularSimilaridade(a, b) {
-  const palavrasA = new Set(a.split(' '));
-  const palavrasB = new Set(b.split(' '));
-  const intersecao = [...palavrasA].filter(p => palavrasB.has(p));
-  const media = (palavrasA.size + palavrasB.size) / 2;
-  return intersecao.length / media;
 }
 
 app.post('/responder', (req, res) => {
