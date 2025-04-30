@@ -1,0 +1,817 @@
+[
+  {
+    "pergunta": "Vocês têm pacote para festa de debutante?",
+    "variacoes": [
+      "Oferecem opção para debutantes?",
+      "Vocês fazem festa de 15 anos?",
+      "Existe serviço para festa de 15 anos?",
+      "Oferecem pacote debutante?",
+      "Tem pacote para 15 anos?",
+      "Vocês fazem festa de debutante?",
+      "Tem algum pacote especial para debutantes?",
+      "Existe opção personalizada para debutante?",
+      "Tem serviço para 15 anos?",
+      "Tem kit especial para debutante?"
+    ],
+    "resposta": "Sim! Temos pacotes personalizados para festas de debutante, incluindo opções como kit festa, placa personalizada, decoração temática e muito mais. Consulte nosso material de atendimento para detalhes completos."
+  },
+  {
+    "pergunta": "É possível personalizar a limousine com o nome ou tema da debutante?",
+    "variacoes": [
+      "Dá para colocar o nome da debutante na limousine?",
+      "Vocês oferecem personalização temática?",
+      "Posso decorar a limousine com o tema da festa?"
+    ],
+    "resposta": "Sim, oferecemos a possibilidade de personalizar a limousine com o nome ou tema da debutante. Consulte nossa equipe para verificar as opções disponíveis e possíveis custos adicionais."
+  },
+  {
+    "pergunta": "Vocês oferecem placa personalizada com nome e idade?",
+    "variacoes": [
+      "A placa personalizada está inclusa no pacote?",
+      "Tem placa com nome e data?",
+      "Posso solicitar uma placa especial para a debutante?",
+      "Qual o valor da placa personalizada?",
+      "Qual o valor da placa com nome e idade?",
+      "Vocês fazem placa especial?"
+    ],
+    "resposta": "Sim, a placa personalizada é um item opcional com valor de R$60,00 por unidade. Ela pode conter o nome e a idade da debutante, adicionando um toque especial à comemoração."
+  },
+  {
+    "pergunta": "A debutante pode sair pelo teto-solar para fotos?",
+    "variacoes": [
+      "A debutante pode se posicionar no teto-solar?",
+      "Há restrições quanto ao uso do teto-solar?",
+      "É permitido usar o teto-solar para fotos?"
+    ],
+    "resposta": "Sim, a limousine possui um sistema que permite o uso do teto-solar apenas com o veículo parado, garantindo segurança. Nesse caso, é permitido utilizá-lo para fotos."
+  },
+  {
+    "pergunta": "A limousine pode parar em diferentes locais para fotos?",
+    "variacoes": [
+      "A limousine pode parar em locais específicos para fotos?",
+      "É possível incluir pontos turísticos no roteiro?",
+      "Podemos fazer paradas para fotos durante o trajeto?"
+    ],
+    "resposta": "Sim, o trajeto é definido pelo cliente e pode incluir paradas em diferentes locais para fotos, desde que esteja dentro do tempo contratado."
+  },
+  {
+    "pergunta": "Tem música e iluminação interna estilo balada?",
+    "variacoes": [
+      "Há luzes coloridas no interior da limousine?",
+      "A limousine possui iluminação de festa?",
+      "O som é adequado para uma balada?"
+    ],
+    "resposta": "Sim, as limousines são equipadas com sistemas de iluminação e som modernos e potentes, proporcionando um ambiente festivo e animado."
+  },
+  {
+    "pergunta": "Posso levar fotógrafo ou vocês oferecem esse serviço?",
+    "variacoes": [
+      "O serviço de fotografia está incluso?",
+      "Vocês têm fotógrafo para a festa?",
+      "Posso contratar meu próprio fotógrafo?"
+    ],
+    "resposta": "Oferecemos serviço de fotógrafo profissional como opcional. Caso prefira, você pode contratar um fotógrafo de sua preferência para acompanhar o evento."
+  },
+  {
+    "pergunta": "Os pais ou responsáveis podem acompanhar a debutante no passeio?",
+    "variacoes": [
+      "Os pais podem ir junto na limousine?",
+      "É permitido que adultos acompanhem a debutante?",
+      "Há espaço para responsáveis acompanharem?"
+    ],
+    "resposta": "Sim, os pais ou responsáveis podem acompanhar a debutante no passeio. Lembrando que todos, exceto o motorista, contam como passageiros para manter o limite de cada limousine."
+  },
+  {
+    "pergunta": "A limousine pode buscar a debutante em casa e depois levá-la ao salão?",
+    "variacoes": [
+      "É possível definir pontos de embarque e desembarque?",
+      "A limousine pode buscar e deixar em locais diferentes?",
+      "Vocês fazem o transporte da casa ao salão?"
+    ],
+    "resposta": "Sim, o trajeto é definido pelo cliente, incluindo pontos de embarque e desembarque conforme sua preferência."
+  },
+  {
+    "pergunta": "Posso tocar uma playlist especial de 15 anos durante o passeio?",
+    "variacoes": [
+      "Posso conectar meu celular ao som da limousine?",
+      "É possível tocar músicas específicas durante o trajeto?",
+      "A limousine aceita pen drive com músicas?"
+    ],
+    "resposta": "Sim, você pode tocar sua playlist especial durante o passeio. As limousines permitem conexão via bluetooth ou uso de pen drive com arquivos no formato DIVX."
+  },
+  {
+    "pergunta": "Vocês têm pacotes especiais para casamentos?",
+    "variacoes": [
+      "Existe pacote de casamento?",
+      "Oferecem serviço para noivos?",
+      "Tem algo especial para casamentos?",
+      "Vocês fazem transporte para casamento?",
+      "Há opção de limousine para casamento?"
+    ],
+    "resposta": "Sim! Temos pacotes voltados especialmente para casamentos, com possibilidade de incluir placa personalizada, kit festa, fotógrafo, além de roteiros adaptados para cerimônia e recepção. Fale com nossa equipe para montar o pacote ideal."
+  },
+  {
+    "pergunta": "A limousine pode buscar a noiva em casa e levá-la à cerimônia?",
+    "variacoes": [
+      "A limousine busca em casa e leva à igreja?",
+      "Fazem o trajeto até a cerimônia?",
+      "Pode buscar a noiva e levar para o casamento?",
+      "Vocês fazem o transporte da noiva?"
+    ],
+    "resposta": "Sim! A limousine pode buscar a noiva em casa e levá-la até a cerimônia, respeitando o tempo contratado."
+  },
+  {
+    "pergunta": "É possível estender o trajeto até a recepção após a cerimônia?",
+    "variacoes": [
+      "Posso ir ao buffet após a igreja?",
+      "Fazem transporte para a recepção também?",
+      "A limousine pode ir até a festa depois da cerimônia?"
+    ],
+    "resposta": "Sim, é possível! Consulte previamente a disponibilidade da limousine. Caso ultrapasse o tempo contratado, será cobrado um valor adicional de R$150,00 por cada meia hora extra."
+  },
+  {
+    "pergunta": "O motorista acompanha a noiva até a entrada?",
+    "variacoes": [
+      "O motorista participa da entrada da noiva?",
+      "O motorista ajuda a noiva a sair do carro?",
+      "Ele abre a porta da limousine na chegada?"
+    ],
+    "resposta": "Sim! Se preferir, o motorista pode acompanhar a noiva até a entrada da cerimônia de forma elegante e discreta."
+  },
+  {
+    "pergunta": "A limousine pode parar para fotos antes ou depois da cerimônia?",
+    "variacoes": [
+      "Dá para fotografar em locais especiais?",
+      "A limousine para para tirar fotos?",
+      "Podemos fazer paradas para fotos no caminho?"
+    ],
+    "resposta": "Sim, você pode definir paradas para fotos antes ou depois da cerimônia, desde que respeitado o tempo contratado no pacote."
+  },
+  {
+    "pergunta": "Vocês oferecem placa personalizada com o nome dos noivos?",
+    "variacoes": [
+      "Tem placa com nome e data do casamento?",
+      "Vocês fazem placa personalizada para casamento?",
+      "Dá para incluir nome dos noivos na placa?"
+    ],
+    "resposta": "Sim! A placa personalizada é um item opcional com valor de R$60,00 por unidade. Pode conter o nome dos noivos e a data do evento, adicionando um toque especial ao momento."
+  },
+  {
+    "pergunta": "É possível decorar a limousine com flores ou o tema do casamento?",
+    "variacoes": [
+      "Aceitam decoração com flores?",
+      "Dá para decorar por dentro ou fora?",
+      "Podemos enfeitar a limousine para o casamento?"
+    ],
+    "resposta": "Sim, é possível decorar a limousine com tema do casamento, desde que não danifique o veículo. A responsabilidade pela decoração e retirada é do contratante."
+  },
+  {
+    "pergunta": "Tem espaço suficiente para o vestido da noiva?",
+    "variacoes": [
+      "Dá para entrar com vestido volumoso?",
+      "O vestido cabe bem na limousine?",
+      "A limousine comporta vestido de noiva?"
+    ],
+    "resposta": "Sim, nossas limousines têm amplo espaço interno, garantindo conforto e mobilidade mesmo com vestidos de noiva volumosos."
+  },
+  {
+    "pergunta": "A limousine tem ar-condicionado adequado para maquiagem e cabelo?",
+    "variacoes": [
+      "O ar-condicionado é bom?",
+      "É confortável para a noiva não suar?",
+      "A limousine é fresca para maquiagem?"
+    ],
+    "resposta": "Sim! Todas as nossas limousines possuem ar-condicionado que mantém o ambiente interno agradável — ideal para preservar a maquiagem e o penteado da noiva até a chegada."
+  },
+  {
+    "pergunta": "Os pais ou padrinhos podem acompanhar a noiva no passeio?",
+    "variacoes": [
+      "Pode levar padrinhos junto?",
+      "A noiva pode ir com os pais?",
+      "Cabe acompanhante com a noiva?"
+    ],
+    "resposta": "Sim, é permitido. Todos os ocupantes — exceto o motorista — contam como passageiros dentro do limite de capacidade da limousine contratada."
+  },
+  {
+    "pergunta": "É permitido levar espumante para o brinde dos noivos?",
+    "variacoes": [
+      "Tem brinde incluso na limousine?",
+      "Pode levar champanhe para o brinde?",
+      "Aceitam bebidas sem álcool ou espumante?"
+    ],
+    "resposta": "Sim! Você pode levar espumante ou bebida de sua preferência, ou optar pelo kit festa adulto, que já inclui champanhe para o brinde. Lembrando que a bebida alcoólica só pode ser consumida por maiores de 18 anos."
+  },
+  {
+    "pergunta": "Vocês oferecem fotógrafo para registrar a chegada da noiva?",
+    "variacoes": [
+      "O fotógrafo acompanha até a cerimônia?",
+      "O fotógrafo registra a chegada da noiva?",
+      "Tem serviço de foto incluso?"
+    ],
+    "resposta": "Sim! Oferecemos serviço de fotógrafo profissional como opcional. Ele pode acompanhar desde o embarque até a chegada no local da cerimônia, capturando todos os momentos especiais."
+  },
+  {
+    "pergunta": "Tem música ambiente? Posso escolher uma trilha sonora para o trajeto?",
+    "variacoes": [
+      "Dá para tocar músicas na limousine?",
+      "Posso escolher o que tocar?",
+      "A música é personalizada?"
+    ],
+    "resposta": "Sim! A limousine possui som ambiente de alta qualidade. Você pode conectar seu celular via bluetooth ou usar pen drive com sua trilha sonora favorita para o trajeto até a cerimônia."
+  },
+  {
+    "pergunta": "A noiva pode sair pelo teto-solar para fotos?",
+    "variacoes": [
+      "O teto-solar pode ser usado durante o evento?",
+      "Pode usar o teto-solar na chegada?",
+      "A noiva pode sair pelo teto para fotos?"
+    ],
+    "resposta": "Sim! O teto-solar pode ser utilizado para fotos, desde que o veículo esteja parado, garantindo total segurança para a noiva e os convidados."
+  },
+  {
+    "pergunta": "A limousine pode fazer uma entrada especial com som e luzes no salão?",
+    "variacoes": [
+      "A limousine faz entrada triunfal?",
+      "Dá para entrar com luzes e música?",
+      "Vocês fazem entrada com efeito especial?"
+    ],
+    "resposta": "Sim! Caso o salão permita, é possível organizar uma entrada especial com a limousine usando efeitos de luz e som, tornando a chegada dos noivos ainda mais marcante."
+  },
+  {
+    "pergunta": "Vocês oferecem kits festa para casamentos?",
+    "variacoes": [
+      "O que tem no kit adulto?",
+      "Tem kit festa para casamento?",
+      "Vocês oferecem bebidas e brindes?"
+    ],
+    "resposta": "Sim! Temos o kit festa adulto como item opcional. Ele inclui champanhe, bombons, águas, sucos e refrigerantes ou cervejas, conforme a limousine escolhida."
+  },
+  {
+    "pergunta": "Qual o valor para adicionar meia hora ao serviço em caso de atraso na cerimônia?",
+    "variacoes": [
+      "Quanto custa para estender o tempo?",
+      "Qual o valor da hora extra?",
+      "E se a cerimônia atrasar?"
+    ],
+    "resposta": "Caso haja necessidade de estender o tempo, o valor adicional é de R$150,00 por cada meia hora, sujeito à disponibilidade da limousine."
+  },
+  {
+    "pergunta": "O motorista estará uniformizado e pontual no local?",
+    "variacoes": [
+      "O condutor tem traje especial?",
+      "Vocês chegam no horário certo?",
+      "O motorista vai trajado?"
+    ],
+    "resposta": "Sim! Nosso motorista sempre chega com antecedência, uniformizado com traje social e quepe, garantindo elegância e pontualidade no seu grande dia."
+  },
+  {
+    "pergunta": "É possível usar a limousine tanto para o casamento civil quanto religioso?",
+    "variacoes": [
+      "Dá para usar para os dois eventos?",
+      "Vocês atendem casamento no cartório também?",
+      "A limousine pode ir ao civil e depois à igreja?"
+    ],
+    "resposta": "Sim, sem problema! Basta planejar o trajeto no momento da contratação e garantir que o tempo contratado seja suficiente para cobrir todas as etapas."
+  },
+  {
+    "pergunta": "Há algum roteiro ou sugestão de trajeto especial para casamentos?",
+    "variacoes": [
+      "Tem ideia de roteiro para noiva?",
+      "O motorista ajuda a planejar o caminho?",
+      "Vocês sugerem trajeto para fotos?"
+    ],
+    "resposta": "O trajeto é definido pelo contratante, mas nossos motoristas podem sugerir rotas ideais com base na experiência em outros eventos, inclusive locais estratégicos para fotos no caminho."
+  },
+  {
+    "pergunta": "Vocês têm algum pacote especial para festas de debutante?",
+    "variacoes": [
+      "Existe um pacote específico para debutantes?",
+      "Oferecem serviços especiais para festas de 15 anos?",
+      "Há opções personalizadas para debutantes?"
+    ],
+    "resposta": "Sim! Temos pacotes personalizados para festas de debutante, incluindo opções como kit festa, placa personalizada, decoração temática e muito mais. Consulte nosso material de atendimento para detalhes completos."
+  },
+  {
+    "pergunta": "Tem espaço para levar as amigas junto?",
+    "variacoes": [
+      "Quantas pessoas cabem na limousine?",
+      "Posso levar as amigas da debutante?",
+      "Qual a capacidade máxima de passageiros?"
+    ],
+    "resposta": "Sim, temos limousines com diferentes capacidades: Ford Edge: até 10 passageiros Hyundai Vera Cruz e Dodge Journey: até 15 passageiros Lembrando que todos, exceto o motorista, contam como passageiros."
+  },
+  {
+    "pergunta": "É permitido levar brindes, doces ou lembrancinhas dentro da limousine?",
+    "variacoes": [
+      "Posso levar lembrancinhas para distribuir durante o passeio?",
+      "É permitido levar doces e brindes na limousine?",
+      "Há restrições quanto a levar itens da festa?"
+    ],
+    "resposta": "Sim, é permitido levar brindes, doces ou lembrancinhas dentro da limousine, desde que não danifiquem o interior do veículo."
+  },
+  {
+    "pergunta": "Vocês oferecem decoração interna com tema de 15 anos?",
+    "variacoes": [
+      "A decoração temática está inclusa?",
+      "Posso solicitar decoração específica para debutante?",
+      "Há opções de decoração interna para festas de 15 anos?"
+    ],
+    "resposta": "Sim, oferecemos opções de decoração interna como itens opcionais, como placa personalizada, balões personalizados, entre outros. Consulte nossa equipe para mais detalhes."
+  },
+  {
+    "pergunta": "É possível estender o tempo do passeio caso a festa atrase?",
+    "variacoes": [
+      "Posso contratar horas extras durante o evento?",
+      "Qual o valor para estender o tempo da limousine?",
+      "Há possibilidade de prolongar o passeio?"
+    ],
+    "resposta": "Sim, é possível estender o tempo do passeio, desde que haja disponibilidade da limousine. O valor adicional é de R$150,00 por cada meia hora extra."
+  },
+  {
+    "pergunta": "Tem fotógrafo para acompanhar a chegada no salão?",
+    "variacoes": [
+      "O fotógrafo pode registrar a chegada da debutante?",
+      "Vocês oferecem cobertura fotográfica até o salão?",
+      "É possível ter fotos da chegada ao evento?"
+    ],
+    "resposta": "Sim, nosso serviço de fotógrafo opcional pode acompanhar a debutante até a chegada no salão, registrando todos os momentos especiais."
+  },
+  {
+    "pergunta": "Tem alguma restrição de idade para quem vai na limousine com a debutante?",
+    "variacoes": [
+      "Há limite de idade para os passageiros?",
+      "Crianças podem acompanhar na limousine?",
+      "Existe alguma restrição etária?"
+    ],
+    "resposta": "Não há restrição de idade para os passageiros. Todos são bem-vindos, respeitando a capacidade máxima da limousine escolhida."
+  },
+  {
+    "pergunta": "Vocês têm alguma sugestão de roteiro para fotos ou passeio antes da festa?",
+    "variacoes": [
+      "Podem sugerir locais para fotos durante o trajeto?",
+      "Há roteiros recomendados para o passeio?",
+      "O motorista pode indicar pontos interessantes?"
+    ],
+    "resposta": "O trajeto é definido pelo cliente. Caso deseje sugestões, o motorista pode orientar com base em experiências de outros eventos."
+  },
+  {
+    "pergunta": "A limousine tem espelho interno para a debutante se arrumar ou retocar maquiagem?",
+    "variacoes": [
+      "Há espelho disponível dentro da limousine?",
+      "Posso retocar a maquiagem durante o passeio?",
+      "A limousine possui estrutura para se arrumar?"
+    ],
+    "resposta": "As limousines não possuem espelho interno específico para maquiagem. Recomendamos que os retoques sejam feitos antes do embarque."
+  },
+  {
+    "pergunta": "A debutante pode fazer um mini desfile na porta do salão com a limousine?",
+    "variacoes": [
+      "É possível organizar uma entrada especial com a limousine?",
+      "A debutante pode descer da limousine em frente ao salão?",
+      "Vocês permitem uma apresentação na chegada?"
+    ],
+    "resposta": "Sim, a debutante pode realizar um mini desfile na porta do salão com a limousine, proporcionando uma entrada triunfal e inesquecível."
+  },
+  {
+    "pergunta": "Dá para incluir bebidas sem álcool no estilo “brinde da debutante”?",
+    "variacoes": [
+      "Vocês oferecem bebidas não alcoólicas para o brinde?",
+      "Posso levar espumante sem álcool para o passeio?",
+      "Há opções de bebidas para menores de idade?"
+    ],
+    "resposta": "Se quiser, posso continuar com as próximas 10 respostas ou unir esse conteúdo ao FAQ principal assim que finalizarmos todas. Deseja continuar com o restante agora ou deixamos para depois? ​​ Você disse: Sim O ChatGPT disse: FAQ completo para eventos de casamento finalizado com sucesso! Você pode baixar aqui: faq_glamour_limousines_casamento_completo.json Pronto para unir esse conteúdo ao FAQ principal ou continuar com outro tipo de evento quando quiser. ​​ Você disse: Pode unir esse ao principal já O ChatGPT disse: Parece que o arquivo principal (faq_glamour_limousines_final.json) foi perdido após a reinicialização do ambiente. Para resolver, por favor: 🔁 Reenvie o último arquivo consolidado do FAQ que você possui (como faq_glamour_limousines_atualizado_completo.json) — assim posso unir corretamente com o FAQ de casamento. Assim que você me enviar, eu finalizo a união e te entrego o novo arquivo completo. ​​ Você disse: Não salvei o ultimo completo O ChatGPT disse: Sem problema! Vamos reconstruir o arquivo principal com base nos arquivos parciais que ainda temos: ✅ Temos os seguintes arquivos salvos: FAQ Expandido Geral FAQ Contrato (cláusulas) FAQ Infantil FAQ Aniversário Adulto FAQ Debutante FAQ Casamento Completo Agora vou juntar todos eles novamente e gerar um novo faq_glamour_limousines_completo_final.json. Um momento… FAQ completo reconstruído com sucesso! Você pode baixar o novo arquivo final aqui: faq_glamour_limousines_completo_final.json Quando quiser seguir com mais eventos (formaturas, city tour, balada, etc.), é só me chamar. Estamos construindo um sistema de atendimento realmente completo! ​​ Você disse: Não está completo esse O ChatGPT disse: Identifiquei o problema: os arquivos mais recentes (como o de casamento e debutante) foram carregados corretamente, mas os arquivos anteriores — como o FAQ expandido, contrato, infantil e adulto — não foram recarregados após a reinicialização do ambiente. Por isso, o arquivo final atual só contém: ✅ 10 perguntas de debutante ✅ 20 perguntas de casamento ❌ Nenhuma dos blocos expandido, contrato, infantil ou adulto Parte inferior do formulário"
+  },
+  {
+    "pergunta": "Como funciona o pagamento?",
+    "variacoes": [
+      "Posso pagar em duas vezes?",
+      "Aceita PIX?",
+      "É preciso pagar tudo antes?",
+      "Quais são as formas de pagamento?",
+      "Posso pagar no cartão?"
+    ],
+    "resposta": "O pagamento é dividido entre entrada e saldo restante. A entrada é paga na reserva e o valor restante deve ser quitado até 15 dias antes do evento. Aceitamos PIX, transferência bancária ou pagamento com cartão presencialmente no showroom."
+  },
+  {
+    "pergunta": "Quais são os dados para pagamento via PIX ou transferência?",
+    "variacoes": [
+      "Para onde faço a transferência?",
+      "Qual a chave PIX?",
+      "Vocês aceitam transferência bancária?",
+      "Quais os dados bancários da empresa?"
+    ],
+    "resposta": "Banco: PagSeguro (290), Agência: 0001, Conta Corrente: 44038143-2, Beneficiário: Glamour Limousines LTDA, CNPJ e chave PIX: 28.858.566/0001-78."
+  },
+  {
+    "pergunta": "O que está incluso no contrato?",
+    "variacoes": [
+      "Quais itens fazem parte do serviço?",
+      "O que inclui o valor pago?",
+      "Tem placa ou fotógrafo incluso?",
+      "Quais adicionais estão no contrato?"
+    ],
+    "resposta": "O contrato especifica detalhadamente os itens contratados, como limousine, placa personalizada, kit festa, fotógrafo, balões, etc. Alguns são opcionais e devem ser combinados previamente."
+  },
+  {
+    "pergunta": "E se ultrapassar o tempo contratado?",
+    "variacoes": [
+      "Como funciona o tempo adicional?",
+      "Tem tolerância de atraso?",
+      "Quanto custa hora extra?"
+    ],
+    "resposta": "Há tolerância de 10 minutos. Após isso, é cobrado o valor adicional de R$150,00 por cada meia hora excedida, sujeito à disponibilidade. O pagamento deve ser feito diretamente ao motorista antes do encerramento do serviço."
+  },
+  {
+    "pergunta": "Quais são as obrigações do contratante?",
+    "variacoes": [
+      "O que eu tenho que fazer?",
+      "Quais são minhas responsabilidades?",
+      "Tenho que informar endereços?"
+    ],
+    "resposta": "O contratante deve fornecer endereços corretos, efetuar os pagamentos nos prazos acordados, respeitar o tempo contratado e arcar com eventuais danos ou horas extras."
+  },
+  {
+    "pergunta": "É permitido usar o teto-solar durante o passeio?",
+    "variacoes": [
+      "A gente pode sair pelo teto para tirar foto?",
+      "Tem como usar o teto solar durante o trajeto?",
+      "Pode abrir o teto com o carro andando?"
+    ],
+    "resposta": "Por segurança, o teto-solar só pode ser usado com o veículo parado. É ideal para tirar fotos com supervisão."
+  },
+  {
+    "pergunta": "Como funciona a música dentro da limousine?",
+    "variacoes": [
+      "Posso conectar meu celular?",
+      "Aceita pen drive com música?",
+      "Tem bluetooth?"
+    ],
+    "resposta": "Sim! Você pode conectar seu celular via bluetooth ou usar pen drives e CDs. Os arquivos devem estar no formato DIVX para funcionar corretamente."
+  },
+  {
+    "pergunta": "Posso cancelar o contrato?",
+    "variacoes": [
+      "Tem multa para cancelamento?",
+      "Posso desistir depois de fechar?",
+      "Como funciona o cancelamento?"
+    ],
+    "resposta": "Sim, desde que feito com pelo menos 90 dias de antecedência. Após esse prazo, a Glamour Limousines pode reter até 50% do valor total para cobrir despesas. A entrada de R$300,00 é considerada caução e não é reembolsável em caso de cancelamento."
+  },
+  {
+    "pergunta": "A Glamour pode usar minhas fotos nas redes sociais?",
+    "variacoes": [
+      "Posso aparecer no Instagram da empresa?",
+      "Assinei algum termo de imagem?",
+      "As fotos do evento podem ser divulgadas?"
+    ],
+    "resposta": "Em caso de autorização através da assinatura na cláusula 9 do contrato, o cliente autoriza o uso de sua imagem para divulgação da Glamour Limousines em redes sociais, site, portfólios e materiais promocionais, sem limite de tempo e sem custo adicional."
+  },
+  {
+    "pergunta": "O motorista vai uniformizado e chega com antecedência?",
+    "variacoes": [
+      "O condutor é pontual?",
+      "O motorista usa traje especial?",
+      "Ele chega no horário certo?"
+    ],
+    "resposta": "Sim! O motorista comparece com antecedência ao horário agendado, trajado com roupa social e quepe, oferecendo um atendimento profissional e elegante."
+  },
+  {
+    "pergunta": "É possível personalizar a limousine com o nome da debutante?",
+    "variacoes": [
+      "Dá para colocar nome da debutante na limousine?",
+      "Posso personalizar a limousine com tema de 15 anos?",
+      "Vocês fazem decoração personalizada para debutante?",
+      "Tem como deixar a limousine com nome e idade?",
+      "É possível adesivar com o tema da festa?"
+    ],
+    "resposta": "Sim! É possível personalizar a limousine com itens como placa personalizada, balão e adesivos. Consulte nossa equipe para verificar as possibilidades e valores."
+  },
+  {
+    "pergunta": "Vocês oferecem placa personalizada para debutante?",
+    "variacoes": [
+      "Tem placa com nome e idade da debutante?",
+      "Quanto custa a placa personalizada?",
+      "Vocês fazem placa para aniversário de 15 anos?",
+      "É possível colocar placa com o nome da aniversariante?",
+      "Tem placa temática de debutante?"
+    ],
+    "resposta": "Sim, a placa personalizada é um item opcional e custa R$ 60,00 por unidade. Pode conter nome, idade e até frases especiais."
+  },
+  {
+    "pergunta": "A limousine é segura para crianças pequenas?",
+    "variacoes": [
+      "Criança pode andar na limousine?",
+      "Tem algum risco para crianças?",
+      "É seguro para menor de idade?"
+    ],
+    "resposta": "Sim, a limousine é muito segura. Para eventos infantis, é obrigatória a presença de um adulto responsável durante todo o passeio."
+  },
+  {
+    "pergunta": "Vocês oferecem cadeirinha infantil ou posso levar a minha?",
+    "variacoes": [
+      "Tem cadeirinha infantil disponível?",
+      "Precisa levar assento infantil?",
+      "Vocês fornecem bebê conforto?"
+    ],
+    "resposta": "Não oferecemos cadeirinha, mas é permitido e recomendado que os responsáveis levem a sua própria, se necessário."
+  },
+  {
+    "pergunta": "O motorista é treinado para lidar com crianças?",
+    "variacoes": [
+      "Motorista sabe lidar com crianças?",
+      "Ele cuida das crianças durante o trajeto?",
+      "É seguro para festas infantis?"
+    ],
+    "resposta": "O motorista é capacitado para atender clientes de todas as idades, mas a responsabilidade pelas crianças durante o passeio é sempre do adulto acompanhante."
+  },
+  {
+    "pergunta": "É permitido levar brinquedos ou decoração infantil?",
+    "variacoes": [
+      "Pode decorar a limousine com tema infantil?",
+      "Tem restrição com enfeites?",
+      "Pode levar brinquedo para o passeio?"
+    ],
+    "resposta": "Sim, é permitido, desde que não cause danos ao interior da limousine."
+  },
+  {
+    "pergunta": "Quanto tempo dura o passeio infantil?",
+    "variacoes": [
+      "Pode ser menos de 2 horas?",
+      "Tem duração mínima para criança?",
+      "Qual o tempo padrão de festa infantil?"
+    ],
+    "resposta": "O tempo médio para festas infantis é de 2 horas, que também é o tempo mínimo de contratação. Você pode contratar períodos maiores se desejar."
+  },
+  {
+    "pergunta": "Vocês têm um pacote especial para aniversários infantis?",
+    "variacoes": [
+      "Tem kit festa infantil?",
+      "Vocês atendem festa de criança?",
+      "Oferecem opção para criança?"
+    ],
+    "resposta": "Sim, temos o kit festa infantil como item opcional. Ele inclui bebidas, doces e snacks apropriados, com variações conforme o modelo da limousine. Consulte o material completo."
+  },
+  {
+    "pergunta": "Os sucos e refrigerantes do kit podem ser trocados?",
+    "variacoes": [
+      "Posso tirar o refrigerante do kit?",
+      "Pode ser só suco no kit?",
+      "É possível mudar a bebida do kit infantil?"
+    ],
+    "resposta": "Sim, é possível personalizar o kit com apenas sucos ou apenas refrigerantes, conforme a preferência da criança ou responsável."
+  },
+  {
+    "pergunta": "Posso tocar músicas infantis durante o trajeto?",
+    "variacoes": [
+      "O som é controlado pelos pais?",
+      "Tem como colocar Galinha Pintadinha?",
+      "É possível tocar playlist de criança?"
+    ],
+    "resposta": "Sim! O som ambiente pode ser controlado pelo adulto responsável. É possível tocar músicas infantis via bluetooth ou pen drive."
+  },
+  {
+    "pergunta": "Os pais podem acompanhar as crianças dentro da limousine?",
+    "variacoes": [
+      "Pode ir junto com a criança?",
+      "É permitido acompanhar o grupo infantil?",
+      "Os pais contam como passageiro?"
+    ],
+    "resposta": "Sim! É recomendável que um adulto acompanhe as crianças. Todos, exceto o motorista, contam como passageiros no limite da limousine."
+  },
+  {
+    "pergunta": "Quantas crianças cabem na limousine?",
+    "variacoes": [
+      "Tem restrição de idade?",
+      "Pode levar quantas crianças?",
+      "Qual o limite de crianças?"
+    ],
+    "resposta": "Cada limousine possui uma capacidade máxima de passageiros: Ford Edge (10), Vera Cruz e Journey (15). Não há limite de idade, apenas de ocupação."
+  },
+  {
+    "pergunta": "Vocês têm algum pacote especial para festas de aniversário de adultos?",
+    "variacoes": [
+      "Tem pacote para adulto?",
+      "Oferecem serviço para aniversário adulto?",
+      "Tem opção para festa de adulto?",
+      "Vocês fazem aniversário noturno?"
+    ],
+    "resposta": "Sim! Temos pacotes personalizados para festas de aniversário adulto, com possibilidade de incluir kit festa, fotógrafo, placa personalizada e muito mais. Consulte nossa equipe para montar o seu."
+  },
+  {
+    "pergunta": "O que está incluso no kit festa adulto? Posso personalizar?",
+    "variacoes": [
+      "O que tem no kit adulto?",
+      "Quais itens estão no pacote adulto?",
+      "Posso trocar as bebidas do kit festa adulto?"
+    ],
+    "resposta": "O kit festa adulto inclui 1 caixa de bombom, 1 champanhe, águas, sucos e refrigerantes ou cervejas, de acordo com a limousine. Para personalizações, consulte a disponibilidade com nossa equipe."
+  },
+  {
+    "pergunta": "É permitido levar bebidas alcoólicas na limousine?",
+    "variacoes": [
+      "Pode levar bebidas?",
+      "É permitido beber na limousine?",
+      "Vocês permitem álcool no passeio?"
+    ],
+    "resposta": "Sim, desde que sejam consumidas apenas por maiores de 18 anos."
+  },
+  {
+    "pergunta": "Vocês oferecem champanhe ou espumante?",
+    "variacoes": [
+      "Vem champanhe no kit?",
+      "O pacote inclui espumante?",
+      "Vocês oferecem bebida para brinde?"
+    ],
+    "resposta": "Sim! O kit festa adulto já inclui champanhe. Você também pode levar o seu se preferir."
+  },
+  {
+    "pergunta": "Tem copos e taças dentro da limousine?",
+    "variacoes": [
+      "Fornecem taças para o brinde?",
+      "Tem copos disponíveis?",
+      "Preciso levar copos?"
+    ],
+    "resposta": "Sim. As limousines contam com copos e taças. Caso haja dano ou perda, o contratante será responsável pela substituição."
+  },
+  {
+    "pergunta": "O som da limousine é potente? Posso colocar minha playlist?",
+    "variacoes": [
+      "Posso controlar a música?",
+      "A limousine tem som bom?",
+      "Dá para conectar celular no som?"
+    ],
+    "resposta": "Sim, todas as limousines têm som potente e moderno. Você pode usar bluetooth ou pen drive para tocar sua playlist."
+  },
+  {
+    "pergunta": "É permitido dançar dentro da limousine?",
+    "variacoes": [
+      "Pode ficar em pé?",
+      "Dá para dançar dentro?",
+      "Tem espaço para curtir música dançando?"
+    ],
+    "resposta": "Durante o passeio, é recomendado que todos permaneçam sentados para segurança. Mas a diversão é garantida com som e luzes internas."
+  },
+  {
+    "pergunta": "Posso contratar um fotógrafo para a festa?",
+    "variacoes": [
+      "Vocês têm fotógrafo?",
+      "Oferecem fotógrafo para aniversário?",
+      "Posso levar fotógrafo externo?"
+    ],
+    "resposta": "Sim! Oferecemos serviço de fotógrafo como opcional. Mas você também pode contratar o profissional de sua preferência."
+  },
+  {
+    "pergunta": "É possível decorar a limousine para a festa?",
+    "variacoes": [
+      "Posso personalizar a decoração?",
+      "Dá para enfeitar por dentro?",
+      "Vocês permitem decoração temática?"
+    ],
+    "resposta": "Sim, desde que a decoração não cause danos ao veículo. Consulte previamente para orientações."
+  },
+  {
+    "pergunta": "A limousine pode fazer várias paradas em bares ou baladas durante a noite?",
+    "variacoes": [
+      "Podemos parar em vários lugares na despedida?",
+      "Dá para parar em diferentes bares durante o passeio?",
+      "A limousine pode passar em baladas à noite?"
+    ],
+    "resposta": "Sim! A limousine pode realizar múltiplas paradas em bares ou baladas, desde que todas estejam dentro do tempo de evento contratado. O roteiro é definido por você!"
+  },
+  {
+    "pergunta": "É permitido levar bebidas alcoólicas diferentes das oferecidas no kit?",
+    "variacoes": [
+      "Posso levar minha própria bebida?",
+      "Tem restrição para bebidas externas?",
+      "Podemos levar bebidas além das do kit festa?"
+    ],
+    "resposta": "Sim, é permitido levar outras bebidas alcoólicas além das oferecidas no kit festa, desde que o consumo seja feito apenas por maiores de 18 anos."
+  },
+  {
+    "pergunta": "Tem como reservar a limousine até de madrugada?",
+    "variacoes": [
+      "Posso contratar para a madrugada?",
+      "Fazem eventos noturnos até tarde?",
+      "É possível alugar a limousine para a madrugada toda?"
+    ],
+    "resposta": "Sim! Atendemos eventos noturnos e madrugadas, sempre com agendamento prévio e dentro do tempo de evento contratado."
+  },
+  {
+    "pergunta": "É possível contratar mais de uma limousine para grupos separados?",
+    "variacoes": [
+      "Posso alugar duas limousines ao mesmo tempo?",
+      "Tem como dividir o grupo em duas limousines?",
+      "É possível contratar duas limousines diferentes?"
+    ],
+    "resposta": "Sim! É possível contratar mais de uma limousine para o mesmo evento. Consulte nossa equipe para verificar a disponibilidade dos modelos no mesmo horário."
+  },
+  {
+    "pergunta": "Vocês fazem personalização da placa com frases engraçadas para a despedida?",
+    "variacoes": [
+      "Posso colocar frase divertida na placa?",
+      "Dá para personalizar a placa com tema da despedida?",
+      "Vocês fazem placas com nome do noivo(a) e frase engraçada?"
+    ],
+    "resposta": "Sim! A placa personalizada é opcional e pode conter nome, data e até frases temáticas para a despedida. Consulte o valor e combine com antecedência."
+  },
+  {
+    "pergunta": "É possível usar a limousine antes e depois da cerimônia de formatura?",
+    "variacoes": [
+      "Posso alugar para antes e depois da colação?",
+      "Dá para usar a limousine em dois momentos?",
+      "Vocês fazem ida e volta para a formatura?"
+    ],
+    "resposta": "Sim! Nesse caso, serão consideradas duas locações diferentes. Consulte nossa equipe para organizar os horários de forma prática e elegante."
+  },
+  {
+    "pergunta": "Posso levar beca, faixa ou adereços da formatura dentro da limousine?",
+    "variacoes": [
+      "É permitido levar itens da colação?",
+      "Posso entrar com faixa de formando?",
+      "Dá para carregar acessórios da formatura?"
+    ],
+    "resposta": "Sim! Você pode levar beca, faixa, chapéu e outros adereços da formatura na limousine sem problemas."
+  },
+  {
+    "pergunta": "Vocês já têm experiência com rotas entre locais de colação e festas?",
+    "variacoes": [
+      "Já fizeram eventos de formatura antes?",
+      "Sabem lidar com festas e colações?",
+      "O motorista conhece esses roteiros?"
+    ],
+    "resposta": "Sim! Já realizamos muitos atendimentos em formaturas. O contratante nos informa os endereços e o motorista segue o roteiro com pontualidade e elegância."
+  },
+  {
+    "pergunta": "Vocês têm roteiros prontos para city tour em São Paulo?",
+    "variacoes": [
+      "O motorista sugere lugares turísticos?",
+      "Tem sugestão de roteiro para city tour?",
+      "Vocês montam um roteiro pelo centro ou pontos turísticos?"
+    ],
+    "resposta": "Sim! Nossos motoristas podem sugerir roteiros de city tour por São Paulo caso o contratante ainda não tenha definido um trajeto. Fique à vontade para ajustar conforme seu interesse."
+  },
+  {
+    "pergunta": "É possível contratar a limousine com nota fiscal e CNPJ?",
+    "variacoes": [
+      "Vocês emitem nota para empresa?",
+      "Dá para contratar em nome da empresa?",
+      "Tem contrato corporativo com nota?"
+    ],
+    "resposta": "Sim! Emitimos nota fiscal com CNPJ mediante solicitação. Informe ao atendente responsável no momento da contratação para incluir os dados corretos."
+  },
+  {
+    "pergunta": "Tem banheiro na limousine?",
+    "variacoes": [
+      "A limousine tem sanitário?",
+      "Tem banheiro disponível dentro do carro?",
+      "É possível ir ao banheiro durante o trajeto?"
+    ],
+    "resposta": "Nossas limousines não possuem banheiro. Mas caso haja necessidade, você pode solicitar ao motorista uma parada em um estabelecimento com banheiro público durante o trajeto."
+  },
+  {
+    "pergunta": "Tem geladeira ou freezer na limousine?",
+    "variacoes": [
+      "Tem onde gelar bebida na limousine?",
+      "Possui refrigerador ou gelo?",
+      "A limousine tem compartimento para bebidas?"
+    ],
+    "resposta": "As limousines são equipadas com cubas de alumínio para armazenamento de bebidas com gelo, garantindo a conservação da temperatura durante o passeio."
+  },
+  {
+    "pergunta": "Posso dirigir a limousine?",
+    "variacoes": [
+      "É permitido o cliente dirigir a limousine?",
+      "Posso ser o motorista?",
+      "Deixo alguém do meu grupo dirigir?"
+    ],
+    "resposta": "Não. Por questões de segurança, apenas o motorista da Glamour Limousines está autorizado a dirigir o veículo."
+  },
+  {
+    "pergunta": "Qual o valor só para levar ou buscar em algum lugar?",
+    "variacoes": [
+      "Quanto custa só o transporte de ida?",
+      "Fazem só translado?",
+      "Tem valor só para buscar ou deixar em um lugar?"
+    ],
+    "resposta": "O período mínimo de contratação é de 2 horas. Caso o cliente deseje finalizar antes desse tempo, o valor permanece o mesmo e não haverá ressarcimento proporcional."
+  },
+  {
+    "pergunta": "Tem disponibilidade para a data X, horário X?",
+    "variacoes": [
+      "A limousine está disponível para tal dia e hora?",
+      "Vocês têm vaga para essa data?",
+      "Tem horário livre para o meu evento?",
+      "Está disponível na data "
+    ],
+    "resposta": "A disponibilidade de data e horário pode ser confirmada diretamente com um de nossos atendentes. Recomendamos fazer sua reserva com antecedência para garantir o modelo desejado."
+  },
+  {
+    "pergunta": "Pode ultrapassar a quantidade de passageiros?",
+    "variacoes": [
+      "Cabe mais gente do que o limite?",
+      "Pode exceder o número de passageiros?",
+      "Tem problema colocar mais pessoas do que o permitido?"
+    ],
+    "resposta": "Não é permitido exceder o limite de passageiros da limousine. Isso infringe as leis de trânsito e compromete o conforto e segurança dos ocupantes."
+  }
+]

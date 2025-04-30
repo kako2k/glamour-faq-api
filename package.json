@@ -1,0 +1,13 @@
+{
+  "name": "glamour-faq-api",
+  "version": "1.0.0",
+  "description": "API de atendimento automático da Glamour Limousines",
+  "main": "faq-api.js",
+  "scripts": {
+    "start": "node faq-api.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
