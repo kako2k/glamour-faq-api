@@ -1,3 +1,4 @@
+
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
@@ -13,12 +14,26 @@ try {
   console.error('Erro ao carregar FAQ:', err);
 }
 
+function normalizarTexto(texto) {
+  return texto
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[.,!?]/g, '')
+    .trim();
+}
+
 function encontrarResposta(perguntaUsuario) {
-  const texto = perguntaUsuario.toLowerCase().trim();
+  const texto = normalizarTexto(perguntaUsuario);
+
   for (const item of faq) {
-    if (texto.includes(item.pergunta.toLowerCase())) return item.resposta;
-    if (item.variacoes?.some(v => texto.includes(v.toLowerCase()))) return item.resposta;
+    const perguntaBase = normalizarTexto(item.pergunta);
+    if (texto.includes(perguntaBase)) return item.resposta;
+
+    const temVariacao = item.variacoes?.some(v => texto.includes(normalizarTexto(v)));
+    if (temVariacao) return item.resposta;
   }
+
   return null;
 }
 
